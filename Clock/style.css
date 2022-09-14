@@ -1,0 +1,15 @@
+body{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    background-color: rgb(169, 2, 2);;
+    align-content: center;
+}
+
+canvas{
+    border-radius: 50px;
+    background-color: rgb(62, 0, 0);
+    box-shadow: 2px 2px 8px rgb(32, 32, 32, 0.4), -2px -2px 8px rgb(10,10,10,1);
+}
+
